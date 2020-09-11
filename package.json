@@ -1,0 +1,14 @@
+{
+  "name": "yes-no",
+  "version": "1.0.0",
+  "description": "ends arguments",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "annoyingcotton",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
